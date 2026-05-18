@@ -30,6 +30,6 @@ The game uses multiple C++ files, including '.cpp' and '.hpp' files to organise 
 
 ## How to Compile:
 In your terminal, type in:
-cd **[copied file path]**
-make
-./game
+- cd **[copied file path]**
+- make
+- ./game
